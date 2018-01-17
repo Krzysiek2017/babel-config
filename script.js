@@ -1,2 +1,2 @@
-﻿const sayHello = () => alert('Hello world!');
+﻿const sayHello = () => alert('Hello world!!');
 sayHello();
